@@ -15,7 +15,7 @@ HTML: Markup language for structuring the web pages
 CSS: Styling language for visually enhancing the portfolio
 GitHub Pages: Hosting platform to deploy and showcase the portfolio website
 ## Deployment
-The portfolio is deployed and hosted on GitHub Pages. You can access it at https://your-username.github.io/portfolio.
+The portfolio is deployed and hosted on GitHub Pages. You can access it at AJChrystall.github.io/My_React_Portfolio
 
 ## To deploy the portfolio on your own GitHub Pages:
 
@@ -37,4 +37,5 @@ Thank you for visiting my React Portfolio! I hope you find it informative and vi
 
 ## Developer: AJChrystall
 
-## git url: https://github.com/AJChrystall/My_React_Portfolio
+## git url: AJChrystall.github.io/My_React_Portfolio
+https://github.com/AJChrystall/My_React_Portfolio 
